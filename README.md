@@ -20,7 +20,7 @@ Reading from csv, do some simple transformations and save to MySQL and MongoDB.
 * Example 2:
 Playing with Imdb open csv dataset, extract it from tar.gz (see code for more info)
 and then run some sample queries, display data and store them to MySQL.
-In order to run the example you will need to download the tsv zipped files of Imdb from here: 
+In order to run the example you will need to download the tsv zipped files of Imdb from here: https://www.imdb.com/interfaces/
 and put them as they are (zipped) inside resources folder.
 
 * Example 3:
